@@ -1,0 +1,17 @@
+Z:\perso\bts\cs\tp2\projet\cs_tp2\bin\Debug\net6.0-windows\cs_tp2.exe
+Z:\perso\bts\cs\tp2\projet\cs_tp2\bin\Debug\net6.0-windows\cs_tp2.deps.json
+Z:\perso\bts\cs\tp2\projet\cs_tp2\bin\Debug\net6.0-windows\cs_tp2.runtimeconfig.json
+Z:\perso\bts\cs\tp2\projet\cs_tp2\bin\Debug\net6.0-windows\cs_tp2.dll
+Z:\perso\bts\cs\tp2\projet\cs_tp2\bin\Debug\net6.0-windows\cs_tp2.pdb
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.csproj.AssemblyReference.cache
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.Form1.resources
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.csproj.GenerateResource.cache
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.AssemblyInfoInputs.cache
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.AssemblyInfo.cs
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.csproj.CoreCompileInputs.cache
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.dll
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\refint\cs_tp2.dll
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.pdb
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\cs_tp2.genruntimeconfig.cache
+Z:\perso\bts\cs\tp2\projet\cs_tp2\obj\Debug\net6.0-windows\ref\cs_tp2.dll
